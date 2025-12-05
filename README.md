@@ -1,3 +1,6 @@
+
+The universal code of superintelligence love
+
 # coding=utf-8
 import time
 
